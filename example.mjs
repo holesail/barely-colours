@@ -10,8 +10,6 @@ console.log(colours.magenta("I am magenta"));
 console.log(colours.cyan("I am cyan"));
 console.log(colours.white("I am white"));
 console.log(colours.black("I am black"));
-console.log(colours.default("I am default color"));
-
 console.log(colours.brightRed("I am bright red"));
 console.log(colours.brightGreen("I am bright green"));
 console.log(colours.brightYellow("I am bright yellow"));

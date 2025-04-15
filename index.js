@@ -35,10 +35,6 @@ class BarelyColours {
     return KeyDecoder.colorWhite + d + reset;
   }
 
-  default(d) {
-    return KeyDecoder.colorDefault + d + reset;
-  }
-
   brightBlack(d) {
     return KeyDecoder.colorBrightBlack + d + reset;
   }
